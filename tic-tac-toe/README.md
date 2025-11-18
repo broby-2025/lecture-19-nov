@@ -1,4 +1,4 @@
-# Code Review-uppgift: Tic Tac Toe
+Tic Tac Toe
 
 ## Introduktion
 
